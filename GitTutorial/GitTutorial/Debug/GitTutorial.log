@@ -1,8 +1,11 @@
-﻿  stdafx.cpp
-  AssemblyInfo.cpp
+﻿  AssemblyInfo.cpp
+AssemblyInfo.cpp(1): fatal error C1093: 應用程式開發介面呼叫 'ImportFile' 在 '0x80070003' 失敗: ErrorMessage: 系統找不到指定的路徑。
+  
+  Description: 系統找不到指定的路徑。
+  HelpFile: complib.hlp
   GitTutorial.cpp
+GitTutorial.cpp(1): fatal error C1093: 應用程式開發介面呼叫 'ImportFile' 在 '0x80070003' 失敗: ErrorMessage: 系統找不到指定的路徑。
+  
+  Description: 系統找不到指定的路徑。
+  HelpFile: complib.hlp
   正在產生程式碼...
-  .NETFramework,Version=v4.5.2.AssemblyAttributes.cpp
-  AssemblyInfo.obj : Managed 程式碼存在時不支援 /DEBUG:FASTLINK; 正在以 /DEBUG:FULL 重新啟動連結
-  GitTutorial.vcxproj -> C:\Users\NTUTCSIE\Desktop\GitTutorial\GitTutorial\Debug\GitTutorial.exe
-  GitTutorial.vcxproj -> C:\Users\NTUTCSIE\Desktop\GitTutorial\GitTutorial\Debug\GitTutorial.pdb (Partial PDB)
